@@ -2,5 +2,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sookoo19&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={sookoo19}&hide=contribs,prs)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,typescript)](https://skillicons.dev)
 
