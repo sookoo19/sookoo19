@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sookoo19&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username={ここは自身のユーザーネームに変更)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sookoo19&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&lines=Hi,+I'm+sookoo19)
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,typescript,javascript)](https://skillicons.dev)
 
