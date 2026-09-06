@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&color=%2336BCF7&lines=Hi%2C+I'm+Kohei+SUZUKI)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=header&text=Kohei%20SUZUKI&fontSize=40&fontColor=ffffff)
+
 
 ## About Me
 
@@ -24,7 +25,9 @@
 
 ## GitHub Stats
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sookoo19&theme=default)
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sookoo19&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sookoo19&layout=compact&theme=default" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sookoo19&theme=default" alt="Most Commit Language" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=sookoo19&theme=default" alt="GitHub Streak" />
 </p>
